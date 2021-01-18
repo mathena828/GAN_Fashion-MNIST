@@ -1,1 +1,1 @@
-# GAN_Fashion-MNIST
+# Fashion Synthesis with Generative Adversarial Networks
